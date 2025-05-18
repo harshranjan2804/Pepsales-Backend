@@ -1,0 +1,22 @@
+{
+  "name": "pepsales-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.8",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.0",
+    "nodemailer": "^7.0.3",
+    "nodemon": "^3.1.10",
+    "twilio": "^5.6.1"
+  }
+}
