@@ -17,7 +17,7 @@ See full API documentation and examples here:
 
 1. Clone the repo & install dependencies:
 
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/harshranjan2804/Pepsales-Backend.git
 cd your-repo
 npm install
 
@@ -47,5 +47,3 @@ text
 - Use the [Postman Docs](https://documenter.getpostman.com/view/44748007/2sB2qXjNGp) to test all endpoints.
 
 ---
-
-
