@@ -18,7 +18,7 @@ See full API documentation and examples here:
 1. Clone the repo & install dependencies:
 
 git clone https://github.com/harshranjan2804/Pepsales-Backend.git
-cd your-repo
+cd Pepsales-Backend
 npm install
 
 text 2. Create a `.env` file with your config:
